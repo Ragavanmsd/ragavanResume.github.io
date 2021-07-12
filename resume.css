@@ -1,0 +1,46 @@
+body{
+    background-image:url(./giphy.gif);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-color: crimson;
+}
+.resume{
+    text-align: center;
+    font-size: 30px;
+    font-weight:bold;
+    font-family:sans-serif;
+    color: cornsilk;
+}
+legend{
+    color: cornsilk;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.form1{
+    margin-bottom: 15px;
+}
+.form1 label{
+    color: cornsilk;
+    padding-bottom: 5px;
+    display: flex;
+}
+.form1 input{
+   width: 30%;
+   margin-bottom: 5px;
+
+}
+.form2 div{
+    font-family:sans-serif;
+    color: cornsilk;
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 15px;
+}
+
+button{
+    font-size: 1.1em;
+    background-color: rgb(241, 227, 168);
+    border-radius: 20px;
+    margin-left: 50%;
+    margin-top: 15px;
+}
